@@ -11,7 +11,7 @@ use package manager to get versions easily, or replace `#v6.0.0` with the tag, b
 
 IMPORTANT: update `v6.0.0` with latest version on release page
 ```json
-"com.james-frowen.position-sync": "https://github.com/James-Frowen/NetworkPositionSync.git?path=/Assets/NetworkPositionSync#v6.0.0",
+"com.james-frowen.position-sync-fork": "https://github.com/wardgames/NetworkPositionSync.git?path=/Assets/NetworkPositionSync#v7.0.1",
 ```
 
 ### Unity package
