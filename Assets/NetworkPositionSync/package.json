@@ -1,13 +1,13 @@
 {
-  "name": "com.james-frowen.position-sync",
-  "displayName": "Network Position Sync",
+  "name": "com.james-frowen.position-sync-fork",
+  "displayName": "Network Position Sync Fork",
   "description": "Network Transform using Snapshot Interpolation and other techniques to best sync position and rotation over the network",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "unity": "2020.3",
   "author": "James Frowen",
   "repository": {
     "type": "git",
-    "url": "https://github.com/James-Frowen/NetworkPositionSync.git"
+    "url": "https://github.com/wardgames/NetworkPositionSync.git"
   },
   "dependencies": {
     "com.miragenet.mirage": "141.0.2"
